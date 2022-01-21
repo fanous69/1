@@ -1,4 +1,5 @@
 #include "stm8s.h"
+#include "stm8s.h"
 #include "stm8_hd44780.h"
 #include <stdio.h>
 #define _ISOC99_SOURCE
